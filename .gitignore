@@ -41,3 +41,6 @@ nbdist/
 
 # Gradle
 build/
+
+# Other 
+.DS_Store
